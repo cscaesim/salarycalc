@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SalaryCalc</string>
+    <string name="before_taxes">Before Taxes</string>
+    <string name="after_taxes">After taxes</string>
+</resources>
